@@ -81,6 +81,7 @@ chart
 charts
 chat
 checkout
+ci
 client
 clients
 clients1
@@ -213,6 +214,7 @@ gw1
 gw2
 gw3
 help
+hg
 home
 hosting
 hostmaster
@@ -379,6 +381,7 @@ recent
 recover
 recruitment
 redirect
+redmine
 region
 register
 registration
@@ -481,6 +484,8 @@ testers
 testing
 text
 thereyet
+tile
+tiles
 tool
 toolbar
 toolbars
@@ -504,6 +509,7 @@ upload
 uploads
 url
 user
+users
 validation
 validations
 video
